@@ -16,7 +16,7 @@ Go to High-level Metric as it provides a summation of each page for the: Order M
 
 <img width="508" alt="image" src="https://github.com/kayleeyana/CMPG323_PROJECT_5_34385479/assets/112712495/68a9bedc-19aa-43c6-aa6c-c3b492ea6ccb">
 
-# The High-level Metrics provides insight upon clicking and hovering around visuals.
+# The High-level Page provides insight upon clicking and hovering around visuals.
 
 1.Filter that navigates between pages upon clicking on each page selection.
 
@@ -32,14 +32,23 @@ Go to High-level Metric as it provides a summation of each page for the: Order M
 4. Sum of Sales by delivery address using a clustered column chart.
 
 
-# Providing Executives a quick and detailed summary of how the company is doing.
+# Providing Executives a quick and detailed summary of how the company is doing on a high level.
 
-# Order Monitoring
+# Order Monitoring Page provides insight upon clicking and hovering around visuals.
 
 
 1.Filter that navigates between pages upon clicking on each page selection.
 
+2. The left side of "High-Metrics" page updates with each selection per visual using a slicer.
 
+               -Count of OrderID.
+               -Count of Sales
+               -OrderDate.
+
+# List of Visual Insights to consider.
+1.Count of Orderid by CustomerName using a clustered column chart.
+2.Count of Sales by OrderDate and DeliverSales using a line and stacked column chart.
+3.Count of Orderid by category.
 
 
 

@@ -32,6 +32,13 @@ Go to High-level Metric as it provides a summation of each page for the: Order M
 4. Sum of Sales by delivery address using a clustered column chart.
 
 
+# Providing Executives a quick and detailed summary of how the company is doing.
+
+# Order Monitoring
+
+
+1.Filter that navigates between pages upon clicking on each page selection.
+
 
 
 

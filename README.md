@@ -32,7 +32,7 @@ Go to High-level Metric as it provides a summation of each page for the: Order M
 4. Sum of Sales by delivery address using a clustered column chart.
 
 
-# Providing Executives a quick and detailed summary of how the company is doing on a high level.
+PROVIDING COMPANY EXECUTIVES WITH A QUICK AND A DETAILED SUMMARY OF HOW THE COMPANY IS DOING.
 
 # Order Monitoring Page provides insight upon clicking and hovering around visuals.
 
@@ -47,7 +47,9 @@ Go to High-level Metric as it provides a summation of each page for the: Order M
 
 # List of Visual Insights to consider.
 1.Count of Orderid by CustomerName using a clustered column chart.
+
 2.Count of Sales by OrderDate and DeliverSales using a line and stacked column chart.
+
 3.Count of Orderid by category.
 
 # Product Monitoring Page provides insight upon clicking and hovering around visuals.

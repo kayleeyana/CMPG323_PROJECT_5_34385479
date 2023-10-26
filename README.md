@@ -92,13 +92,15 @@ PROVIDING COMPANY EXECUTIVES WITH A QUICK AND A DETAILED SUMMARY OF HOW THE COMP
 1.Filter that navigates between pages upon clicking on each page selection.
 
 Filter across the Filtering Page.
-1.CustomerName
-2.CustomerId
-3.Sales greater then R42000, 00
+
+        1.CustomerName
+        2.CustomerId
+        3.Sales greater then R42000, 00
 
 Filter Product across the Filtering page.
-1.Category.
-2.Category.
+
+         1.Category.
+         2.Category.
 
 
 

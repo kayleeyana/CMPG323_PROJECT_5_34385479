@@ -13,7 +13,7 @@ Go to High-level Metric as it provides a summation of each page for the: Order M
 
 
 
-    <img width="508" alt="image" src="https://github.com/kayleeyana/CMPG323_PROJECT_5_34385479/assets/112712495/68a9bedc-19aa-43c6-aa6c-c3b492ea6ccb">
+<img width="508" alt="image" src="https://github.com/kayleeyana/CMPG323_PROJECT_5_34385479/assets/112712495/68a9bedc-19aa-43c6-aa6c-c3b492ea6ccb">
 
 # The High-level Metrics provides insight upon clicking and hovering around visuals.
 

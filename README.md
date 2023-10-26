@@ -7,6 +7,7 @@ Using this Power BI Report.
 1. Download and install Power BI.
 2. Use the Power BI on Power BI Services.
 3. Keep in mind that each selection will filter across the page an provide insights.
+4. When you hover on each visual it provides the details about each visual based upon the data used in the excel spreedsheet.
 
 
 Go to High-level Metric as it provides a summation of each page for the: Order Monitoring, Product Monitoring, Customers Monitoring, and then Filters. 
@@ -18,6 +19,7 @@ Go to High-level Metric as it provides a summation of each page for the: Order M
 # The High-level Metrics provides insight upon clicking and hovering around visuals.
 
 1.Filter that navigates between pages upon clicking on each page selection.
+
 2. The left side of "High-Metrics" page updates with each selection per visual using a slicer.
 
                -Sum of Discount.

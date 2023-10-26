@@ -39,7 +39,7 @@ Go to High-level Metric as it provides a summation of each page for the: Order M
 
 1.Filter that navigates between pages upon clicking on each page selection.
 
-2. The left side of "High-Metrics" page updates with each selection per visual using a slicer.
+2. The left side of "Ordering Monitoring" page updates with each selection per visual using a slicer.
 
                -Count of OrderID.
                -Count of Sales
@@ -49,6 +49,56 @@ Go to High-level Metric as it provides a summation of each page for the: Order M
 1.Count of Orderid by CustomerName using a clustered column chart.
 2.Count of Sales by OrderDate and DeliverSales using a line and stacked column chart.
 3.Count of Orderid by category.
+
+# Product Monitoring Page provides insight upon clicking and hovering around visuals.
+
+1.Filter that navigates between pages upon clicking on each page selection.
+
+2. The left side of "Product Monitoring" page updates with each selection per visual using a slicer.
+
+               -Count of ProductID.
+               -Count of UnitInStock
+               -Average UnitsInStock.
+
+# List of Visual Insights to consider.
+1.Count of Productid by Category using a pie chart.
+2.Count of Productid by Category using the OrderDate implemented with a clustered column chart.
+3.Count of UnitsInProduct by category.
+
+# Customer Page provides insight upon clicking and hovering around visuals.
+
+1.Filter that navigates between pages upon clicking on each page selection.
+
+2. The left side of "Customer Monitoring" page updates with each selection per visual using a slicer.
+
+               -Count of ProductID.
+               -Count of UnitInStock
+               -Average UnitsInStock.
+
+# List of Visual Insights to consider.
+1.Filter Customer Monitoring Page by:
+
+          Selecting a customer Name.
+          Deliver Address.
+          
+2.Count of Customerid by CustomerTitle using a clustered bar chart.
+2.Count of Quantity by Customer using a pie chart.
+
+
+# Filtering Page provides insight upon clicking and hovering around visuals.
+
+1.Filter that navigates between pages upon clicking on each page selection.
+
+Filter across the Filtering Page.
+1.CustomerName
+2.CustomerId
+3.Sales greater then R42000, 00
+
+Filter Product across the Filtering page.
+1.Category.
+2.Category.
+
+
 
 
 

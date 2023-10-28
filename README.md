@@ -100,7 +100,7 @@ Filter across the Filtering Page.
 Filter Product across the Filtering page.
 
          1.Category.
-         2.Category.
+         2.ProductID.
 
 
 
